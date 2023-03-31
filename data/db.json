@@ -1,0 +1,37 @@
+{
+  "buckets": [
+    {
+      "name": "entertainment",
+      "id": 1
+    },
+    {
+      "name": "podcast",
+      "id": 2
+    },
+    {
+      "name": "songs",
+      "id": 3
+    },
+   
+    
+   
+    {
+      "name": "education",
+      "id": 7
+    }
+  ],
+  "cards": [
+    {
+      "url": "https://youtu.be/ycS5PagXvhQ?list=RDycS5PagXvhQ",
+      "name": "mera yaar",
+      "bucket_id": 1,
+      "id": 1
+    },
+    {
+      "url": "https://youtu.be/28sptQICKCk",
+      "name": "bhagvad gita",
+      "bucket_id": 2,
+      "id": 2
+    }
+  ]
+}
